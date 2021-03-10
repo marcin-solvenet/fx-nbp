@@ -21,7 +21,7 @@
   "author": "Kamil Szydlowski",
   "license": "MIT",
   "dependencies": {
-    "poland-public-holidays": "^1.0.1"
+    "poland-public-holidays": "^2.0.0"
   },
   "devDependencies": {
     "chai": "^4.2.0",
